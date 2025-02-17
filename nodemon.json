@@ -1,0 +1,6 @@
+{
+    "ignore": ["database.json", "*.log", "node_modules/*"],
+    "ext": "js,json",
+    "watch": ["src/"],
+    "delay": "2000"
+  }
